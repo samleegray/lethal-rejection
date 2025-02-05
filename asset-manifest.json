@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/git@github.com:samleegray/lethal-rejection.git/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/git@github.com:samleegray/lethal-rejection.git/static/js/main.1fa16fcf.chunk.js",
+    "main.js.map": "/git@github.com:samleegray/lethal-rejection.git/static/js/main.1fa16fcf.chunk.js.map",
+    "runtime-main.js": "/git@github.com:samleegray/lethal-rejection.git/static/js/runtime-main.b0775e77.js",
+    "runtime-main.js.map": "/git@github.com:samleegray/lethal-rejection.git/static/js/runtime-main.b0775e77.js.map",
+    "static/js/2.2693f6d3.chunk.js": "/git@github.com:samleegray/lethal-rejection.git/static/js/2.2693f6d3.chunk.js",
+    "static/js/2.2693f6d3.chunk.js.map": "/git@github.com:samleegray/lethal-rejection.git/static/js/2.2693f6d3.chunk.js.map",
+    "static/js/3.8d3ce625.chunk.js": "/git@github.com:samleegray/lethal-rejection.git/static/js/3.8d3ce625.chunk.js",
+    "static/js/3.8d3ce625.chunk.js.map": "/git@github.com:samleegray/lethal-rejection.git/static/js/3.8d3ce625.chunk.js.map",
+    "index.html": "/git@github.com:samleegray/lethal-rejection.git/index.html",
+    "precache-manifest.d1b45e53f4b87e3645c2df6ee3cbde1c.js": "/git@github.com:samleegray/lethal-rejection.git/precache-manifest.d1b45e53f4b87e3645c2df6ee3cbde1c.js",
+    "service-worker.js": "/git@github.com:samleegray/lethal-rejection.git/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/git@github.com:samleegray/lethal-rejection.git/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.2693f6d3.chunk.js.LICENSE.txt": "/git@github.com:samleegray/lethal-rejection.git/static/js/2.2693f6d3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0775e77.js",
+    "static/js/2.2693f6d3.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.1fa16fcf.chunk.js"
+  ]
+}
