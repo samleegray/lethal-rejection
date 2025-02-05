@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "26362e05105b094645829fb1ee701716",
+    "revision": "e24d50cf0f744b2c4c68e879050a64f5",
     "url": "/git@github.com:samleegray/lethal-rejection.git/index.html"
   },
   {
-    "revision": "ef3264418af0ae5c0f53",
+    "revision": "88f93a8e1c14654b953a",
     "url": "/git@github.com:samleegray/lethal-rejection.git/static/css/main.5ecd60fb.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/git@github.com:samleegray/lethal-rejection.git/static/js/3.8d3ce625.chunk.js"
   },
   {
-    "revision": "ef3264418af0ae5c0f53",
-    "url": "/git@github.com:samleegray/lethal-rejection.git/static/js/main.1fa16fcf.chunk.js"
+    "revision": "88f93a8e1c14654b953a",
+    "url": "/git@github.com:samleegray/lethal-rejection.git/static/js/main.71715d4b.chunk.js"
   },
   {
     "revision": "611df6f0997b66820577",

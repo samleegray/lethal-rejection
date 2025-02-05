@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/git@github.com:samleegray/lethal-rejection.git/precache-manifest.d1b45e53f4b87e3645c2df6ee3cbde1c.js"
+  "/git@github.com:samleegray/lethal-rejection.git/precache-manifest.9d5795dafe0f54f9bc7bb125c99aa221.js"
 );
 
 self.addEventListener('message', (event) => {
