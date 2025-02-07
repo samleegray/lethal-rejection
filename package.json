@@ -9,7 +9,7 @@
     "react-scripts": "^3.0.1",
     "web-vitals": "^4.2.4"
   },
-  "homepage": "git@github.com:samleegray/lethal-rejection.git",
+  "homepage": "https://github.com/samleegray/lethal-rejection.git",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
