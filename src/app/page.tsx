@@ -1,5 +1,3 @@
-import Image from "next/image";
-
 export default function Home() {
   return (
     <a href="https://eso-hub.com/en/skills/sorcerer/storm-calling/streak">
